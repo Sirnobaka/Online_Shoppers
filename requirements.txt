@@ -1,0 +1,12 @@
+numpy
+pandas
+catboost
+seaborn
+scipy
+matplotlib
+tabulate
+warnings
+association_metrics
+sklearn
+collections
+imblearn
